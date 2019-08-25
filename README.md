@@ -59,5 +59,3 @@ If you are intending to implement a full-stack trading system with FIX order cap
 atdlj is licensed under the MIT license. Refer to LICENSE file for details
 
 FIX Protocol and FIXatdl are trademarks or service marks of FIX Protocol Limited
-
-[Looking for a .NET implementation of FIXatdl? Check out atdl4net](http://atdl4net.org)
